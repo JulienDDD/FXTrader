@@ -2,8 +2,8 @@ import MetaTrader5 as mt5
 
 mt5.initialize()
 
-account = 10674218
-password = "gCL8mIF^"
+account = qsddqs
+password = "qdssdq^"
 server = "VantageInternational-Demo"
 
 authorized = mt5.login(account, password=password, server=server)
