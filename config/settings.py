@@ -26,5 +26,5 @@ ALLOWED_HOURS    = range(8, 20)        # ⏰ Heures de trading autorisées (UTC 
 USE_GPT          = True                # 🤖 Activer GPT pour l’aide à la décision
 OPENAI_API_KEY   = "sk-..."            # 🧠 Clé API OpenAI (si utilisé)
 
-# === Journalisation ===
+# === Journalisation 
 LOG_FILE         = "logs/trade_log.txt"  # 📄 Fichier de log principal
